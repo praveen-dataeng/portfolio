@@ -1,0 +1,32 @@
+const data = [
+    {
+        avatar: 1,
+        name: IMG1,
+        Role: 'Potato Disease Identification',
+    },
+    {
+        avatar: 1,
+        name: IMG2,
+        Role: 'Loan Approval Prediction',
+    },
+    {
+        avatar: 1,
+        name: IMG3,
+        Role: 'Bangalore Real-Estate Price Prediction',
+    },
+    {
+        avatar: 1,
+        name: IMG4,
+        Role: 'Celebrity Image Classification',
+    },
+    {
+        avatar: 1,
+        name: IMG5,
+        Role: 'PowerBI sales insight',
+    },
+    {
+        avatar: 1,
+        name: IMG6,
+        Role: 'Amazon Churn Model',
+    },
+]

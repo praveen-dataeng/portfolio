@@ -1,0 +1,44 @@
+const data = [
+    {
+        id: 1,
+        image: IMG1,
+        title: 'Potato Disease Identification',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+    {
+        id: 1,
+        image: IMG2,
+        title: 'Loan Approval Prediction',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+    {
+        id: 1,
+        image: IMG3,
+        title: 'Bangalore Real-Estate Price Prediction',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+    {
+        id: 1,
+        image: IMG4,
+        title: 'Celebrity Image Classification',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+    {
+        id: 1,
+        image: IMG5,
+        title: 'PowerBI sales insight',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+    {
+        id: 1,
+        image: IMG6,
+        title: 'Amazon Churn Model',
+        github: 'www.github.com',
+        demo: 'www.google.com',
+    },
+]
